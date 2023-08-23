@@ -10,7 +10,7 @@
 - Surge.sh
 
 ## Projects:
-- # [Buftermio](https://github.com/skovranek/buftermio)
-- # [Django To-Do App](https://django-todos-7caa0bc186c8.herokuapp.com/)
-- # [Sudoku Solver](https://sudokus.surge.sh/)
-- # [3x3 Cube](https://cubes.surge.sh/)
+- ### [Buftermio](https://github.com/skovranek/buftermio)
+- ### [Django To-Do App](https://django-todos-7caa0bc186c8.herokuapp.com/)
+- ### [Sudoku Solver](https://sudokus.surge.sh/)
+- ### [3x3 Cube](https://cubes.surge.sh/)
