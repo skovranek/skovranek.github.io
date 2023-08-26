@@ -7,3 +7,5 @@
 - ## Alder Home Security _2021-2022_
   - ### Sales Representative
   > Sales, Customer Service
+
+[Technologies & Projects](https://skovranek.github.io/) | [Education & Experience](https://skovranek.github.io//education.html)
