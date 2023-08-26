@@ -14,7 +14,7 @@
 ## Education: Online Programs
 - ### Backend Developer Career Path - Boot.dev - [profile](https://www.boot.dev/u/afk)
   - Completed All Courses in the Backend Developer Career Path
-  - Concepts: Data Structures, Algorithms, Web Servers/HTTP, Cryptography, OOP, Funcational Programming
+  - Concepts: Data Structures, Algorithms, Web Servers, Cryptography, OOP, Funcational Programming
   - Languages: Golang, Python, Javascript, SQL
   - _([Ranked #1](https://www.boot.dev/leaderboard) out of 100,000+ students!)_
 - ### Codecademy.com - [profile]()
