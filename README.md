@@ -1,9 +1,9 @@
 ## Technologies
-- Golang
-- Python, Django
-- JavaScript, Node
-- SQL, PostgreSQL
-- NeoVim
+- ### Golang
+- ### Python, Django
+- ### JavaScript, Node
+- ### SQL, PostgreSQL
+- ### NeoVim
 
 ## Projects
 - ### [Buftermio](https://pkg.go.dev/github.com/skovranek/buftermio)
