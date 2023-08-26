@@ -12,10 +12,11 @@
 > A Python Django CRUD app hosted on Heroku.
 
 ## Education/Online Programs
-- ### Boot.dev - [profile](https://www.boot.dev/u/afk)
-  - Completed Entire Backend Developer Career Path
+- ### Backend Developer Career Path - Boot.dev - [profile](https://www.boot.dev/u/afk)
+  - Completed All Courses in the Backend Developer Career Path
+  - Concepts: Data Structures, Algorithms, Web Servers/HTTP, Cryptography, OOP, Funcational Programming
   - Languages: Golang, Python, Javascript, SQL
-  - Concepts: Data Structures, Algorithms, Object Oriented Programming, Funcational Programming, Cryptography, Web Servers/HTTP
+  - _([Ranked #1](https://www.boot.dev/leaderboard) out of 100,000+ students!)_
 - ### Codecademy.com - [profile]()
   - Languages: Python, Javascript, HTML, CSS
 
