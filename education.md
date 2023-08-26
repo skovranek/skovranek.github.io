@@ -1,3 +1,7 @@
+layout: page
+title: "Education"
+permalink: /edu
+
 ## Education: Online Programs
 - ### Backend Developer Career Path - Boot.dev - [profile](https://www.boot.dev/u/afk)
   - __Completed All Courses in the Backend Developer Career Path__
