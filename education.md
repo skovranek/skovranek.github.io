@@ -6,3 +6,5 @@
   - _**([Ranked #1](https://www.boot.dev/leaderboard)** out of 100,000+ students!)_
 - ### Codecademy.com - [profile]()
   - _Languages:_ Python, Javascript, HTML, CSS
+
+[Technologies & Projects](https://skovranek.github.io/) | [Education & Experience](https://skovranek.github.io//education.html)
