@@ -11,7 +11,7 @@
 - ### [TO-DO List - Django Web App](https://django-todos-7caa0bc186c8.herokuapp.com/)
 > A Python Django CRUD app hosted on Heroku.
 
-## Education/Online Programs
+## Education: Online Programs
 - ### Backend Developer Career Path - Boot.dev - [profile](https://www.boot.dev/u/afk)
   - Completed All Courses in the Backend Developer Career Path
   - Concepts: Data Structures, Algorithms, Web Servers/HTTP, Cryptography, OOP, Funcational Programming
