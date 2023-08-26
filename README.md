@@ -11,4 +11,4 @@
 - ### [TO-DO List - Django Web App](https://django-todos-7caa0bc186c8.herokuapp.com/)
 > A Python Django CRUD app hosted on Heroku.
 
-### See [Education](https://skovranek.github.io//education.html) | [Experience](https://skovranek.github.io//experience.html)
+## See [Education](https://skovranek.github.io//education.html) | [Experience](https://skovranek.github.io//experience.html)
