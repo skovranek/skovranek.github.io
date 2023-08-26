@@ -15,14 +15,15 @@
 ### Online Programs:
 - ### Boot.dev - [profile](https://www.boot.dev/u/afk)
 > Languages: Golang, Python, Javascript, SQL
+
 > Concepts: Data Structures, Algorithms, Object Oriented Programming, Funcational Programming, Cryptography, Web Servers/HTTP
 - ### Codecademy.com - [profile]()
-> Python, Javascript, HTML, CSS
+> Languages: Python, Javascript, HTML, CSS
 
 ## Experience:
 - ## Costco Wholesale 2012-2021
 - ### Tire Tech Supervisor and Sales
-> Leadership, Customer Service 
+> Leadership, Customer Service, TIA Certification
 - ### Produce/Fresh Stocker
 > Customer Service, Merchandising, FIFO procedures
 - ## Alder Home Security 2021-2022
