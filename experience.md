@@ -1,12 +1,12 @@
 # Experience
 ## Costco Wholesale _2012-2021_
 - ## Tire Tech Supervisor and Sales
-> __Leadership, Customer Service, TIA Certification__
+> Leadership, Customer Service, TIA Certification
 - ## Produce/Fresh Stocker
-  - __Customer Service, Merchandising, FIFO procedures__
+> Customer Service, Merchandising, FIFO procedures
 
 ## Alder Home Security _2021-2022_
 - ## Sales Representative
-  - Sales, Customer Service
+> Sales, Customer Service
 
 ## [Technologies & Projects](https://skovranek.github.io/) | [Education](https://skovranek.github.io//education.html)
