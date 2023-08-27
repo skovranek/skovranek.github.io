@@ -9,4 +9,4 @@
 - ## Sales Representative
 > Sales, Customer Service
 
-## [Technologies & Projects](https://skovranek.github.io/) | [Education](https://skovranek.github.io//education.html)
+## [Portfolio](https://skovranek.github.io/) | [Education](https://skovranek.github.io//education.html)
