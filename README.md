@@ -4,6 +4,8 @@
 - ### JavaScript, Node
 - ### SQL, PostgreSQL
 - ### NeoVim
+- ### Heroku
+- ### Surge.sh
 
 # Projects
 - ### [Buftermio](https://pkg.go.dev/github.com/skovranek/buftermio)
