@@ -1,9 +1,9 @@
 # Experience
 ## Costco Wholesale _2012-2021_
 - ## Tire Tech Supervisor and Sales
-  - Leadership, Customer Service, TIA Certification
+> __Leadership, Customer Service, TIA Certification__
 - ## Produce/Fresh Stocker
-> Customer Service, Merchandising, FIFO procedures
+  - __Customer Service, Merchandising, FIFO procedures__
 
 ## Alder Home Security _2021-2022_
 - ## Sales Representative
