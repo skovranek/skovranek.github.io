@@ -7,4 +7,4 @@
 ## Codecademy.com - [profile]()
 - __Languages:__ Python, Javascript, HTML, CSS
 
-## [Technologies & Projects](https://skovranek.github.io/) | [Experience](https://skovranek.github.io//experience.html)
+## [Portfolio](https://skovranek.github.io/) | [Experience](https://skovranek.github.io//experience.html)
