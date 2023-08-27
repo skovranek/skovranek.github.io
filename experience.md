@@ -8,4 +8,4 @@
 - ### __Sales Representative__
 > Sales, Customer Service
 
-### [Technologies & Projects](https://skovranek.github.io/) | [Education](https://skovranek.github.io//education.html)
+## [Technologies & Projects](https://skovranek.github.io/) | [Education](https://skovranek.github.io//education.html)
