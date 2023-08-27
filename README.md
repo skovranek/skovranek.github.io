@@ -1,11 +1,11 @@
 ## Portfolio | [Education](https://skovranek.github.io//education.html) | [Experience](https://skovranek.github.io//experience.html)
 
 # Technologies
-- ### Golang
+- ### Go
 - ### Python, Django
-- ### JavaScript, Node
+- ### JavaScript, Node.js
 - ### SQL, PostgreSQL
-- ### NeoVim
+- ### Neovim
 - ### Heroku
 - ### Surge.sh
 
