@@ -1,11 +1,21 @@
 ## [Portfolio](https://skovranek.github.io/) | [Education](https://skovranek.github.io//education.html) | Experience
 
-# Costco Wholesale _2012-2021_
+# My Programming Journey:
+Basically, it's been a long ten years. This year, I'm finally making the push to write code professionally. I've pushed all my chips to the middle of the table and am all in on doing this. I want to program because I enjoy programming. I feel fortunate to be I'm alive during the Information Age because of its' opportunity for innovation.
+
+Business is about solving people's problems, and in the modern world, computers most often offer the best solution. For every job I've ever done, I've had to solve problems that should not exist because software could eliminate them or do them most efficiently. A lot of decisions can be automated and solutions can be calibrated in seconds. I want to create programs that solve real world problems. 
+
+# Employment
+## Costco Wholesale _2012-2021_
 - ## Tire Tech Supervisor and Sales
 > Leadership, Customer Service, TIA Certification
 - ## Produce/Fresh Stocker
 > Customer Service, Merchandising, FIFO procedures
 
-# Alder Home Security _2021-2022_
+## Alder Home Security _2021-2022_
 - ## Sales Representative
 > Sales, Customer Service
+
+## Walmart _2023-Present_
+- ## Stocker
+> Customer Service
