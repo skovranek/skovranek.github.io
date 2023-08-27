@@ -1,6 +1,6 @@
 ## [Portfolio](https://skovranek.github.io/) | Education | [Experience](https://skovranek.github.io//experience.html)
 
-# Education - Online Programs
+# Online Programs
 ## Backend Developer Career Path - Boot.dev 
 - __[Certifications](https://www.boot.dev/u/afk)__ - Completed All Courses
 - __Languages:__ Golang, Python, Javascript, SQL
