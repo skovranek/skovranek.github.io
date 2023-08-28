@@ -2,11 +2,11 @@
 # My Programming Journey
 Basically, learning how to program has been a long ten years. A lot of stops and starts. Cumulatively, it's been two years of dedicated study and practice. Now it's time to get over the finish line. I've pushed all my chips into the center.
 
-_I want to program because I enjoy programming._
+__*I want to program because I enjoy programming.*__
 
 Business is about people and solving their problems. For every job I've done, I've had to solve problems that should not exist because software could eliminate them or do them more efficiently. Decisions can be automated and solutions can be calibrated in milliseconds. 
 
-_I want to create programs that help people by solving real problems._
+__*I want to create programs that help people by solving real problems.*__
 # Employment
 ## Costco Wholesale _2012-2021_
 - ## Tire Tech Supervisor and Sales
