@@ -25,7 +25,7 @@
   - [HTML](https://www.codecademy.com/profiles/skovranek/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7)
   - [CSS](https://www.codecademy.com/profiles/skovranek/certificates/3a62023b0054dc793edc0adecd715fd7)
 - __Concepts:__
-  - Web Design:
+  - Web Design
   - [Interactive JS](https://www.codecademy.com/profiles/skovranek/certificates/36ae898a1d1c8524815305b2d1d2ebab)
   - [Responsive CSS](https://www.codecademy.com/profiles/skovranek/certificates/3a62023b0054dc793edc0adecd715fd7)
   - [JQuery](https://www.codecademy.com/profiles/skovranek/certificates/0becf7c1cd2bd715f24331dddd23425a)
