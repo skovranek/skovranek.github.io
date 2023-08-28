@@ -4,7 +4,7 @@ Basically, learning how to program has been a long ten years. A lot of stops and
 
 __*I want to program because I enjoy programming.*__
 
-Business is about people and solving their problems. For every job I've done, I've had to solve problems that should not exist because software could eliminate them or do them more efficiently. Decisions can be automated and solutions can be calibrated in milliseconds. 
+Business is about people and solving their problems. For every job I've done, I've had to solve problems that should not exist because software could eliminate them. Decisions can be automated and solutions calibrated in milliseconds.
 
 __*I want to create programs that help people by solving real problems.*__
 # Employment
