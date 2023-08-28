@@ -1,8 +1,8 @@
 ## [Portfolio](https://skovranek.github.io/) | [Education](https://skovranek.github.io//education.html) | Experience
 # My Programming Journey
-Basically, learning how to program has been a long ten years. I've been focused on a lot of other things. Now it's time to get over the finish line.
+Basically, learning how to program has been a long ten years. A lot of stops and starts. Cumulatively, it's been at least two years of dedicated study and practice. Now it's time to get over the finish line. I've pushed all my chips into the center.
 
-I'm finally making the push to write code professionally. I've pushed all my chips into the center. I want to program because I enjoy programming.
+I want to program because I enjoy programming.
 
 Business is about people and solving their problems. For every job I've done, I've had to solve problems that should not exist because software could eliminate them or do them more efficiently. Decisions can be automated and solutions can be calibrated in milliseconds. 
 
