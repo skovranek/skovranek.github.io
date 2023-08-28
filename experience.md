@@ -6,7 +6,7 @@ _I want to program because I enjoy programming._
 
 Business is about people and solving their problems. For every job I've done, I've had to solve problems that should not exist because software could eliminate them or do them more efficiently. Decisions can be automated and solutions can be calibrated in milliseconds. 
 
-_I want to create programs that help people by solving their problems._
+_I want to create programs that help people by solving real problems._
 # Employment
 ## Costco Wholesale _2012-2021_
 - ## Tire Tech Supervisor and Sales
