@@ -1,12 +1,12 @@
 ## [Portfolio](https://skovranek.github.io/) | [Education](https://skovranek.github.io//education.html) | Experience
-
 # My Programming Journey
-Basically, it's been a long ten years. Now I'm finally making the push to write code professionally. I've pushed all my chips to the middle. I want to program because I enjoy programming.
+Basically, learning how to program has been a long ten years. I've been focused on a lot of other things. Now it's time to get over the finish line.
 
-Business is about people and solving their problems. Most often, computers offer the best solution. For every job I've done, I've had to solve problems that should not exist because software could eliminate them or do them more efficiently. Decisions can be automated and solutions can be calibrated in milliseconds. 
+I'm finally making the push to write code professionally. I've pushed all my chips into the center. I want to program because I enjoy programming.
 
-I want to create programs that solve real world problems for people. 
+Business is about people and solving their problems. For every job I've done, I've had to solve problems that should not exist because software could eliminate them or do them more efficiently. Decisions can be automated and solutions can be calibrated in milliseconds. 
 
+I want to create programs that solve real world problems for people.
 # Employment
 ## Costco Wholesale _2012-2021_
 - ## Tire Tech Supervisor and Sales
