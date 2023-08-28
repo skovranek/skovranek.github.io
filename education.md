@@ -17,7 +17,7 @@
   - [FP](https://www.boot.dev/certificate/afk/b1459f0c-21eb-41e5-b7f3-562ef69d344c)
 
 ## Premium Full-Stack Web Development - Codecademy.com
-- __[17 Certifications](https://www.codecademy.com/profiles/skovranek) - [600 Badges](https://www.codecademy.com/users/skovranek__/achievements)
+- __[17 Certifications](https://www.codecademy.com/profiles/skovranek) - [600 Badges](https://www.codecademy.com/users/skovranek/achievements)__
 - __Languages:__
   - [Python](https://www.codecademy.com/profiles/skovranek/certificates/b97fd4d87a816c761a674af1b5391ef1)
   - [Javascript](https://www.codecademy.com/profiles/skovranek/certificates/705dcb15de0da4dd9d9fc4f3274b430e)
