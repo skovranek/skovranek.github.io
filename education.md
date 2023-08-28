@@ -3,7 +3,7 @@
 # Online Programs
 ## Backend Developer Career Path - Boot.dev 
 - __11 [Certifications](https://www.boot.dev/u/afk)__ - 6 Guided Projects
-- __Languages;__
+- __Languages:__
   - [Go](https://www.boot.dev/certificate/afk/3b39d0f6-f944-4f1b-832d-a1daba32eda4)
   - [Python](https://www.boot.dev/certificate/afk/f9a25dfb-3e00-4727-ac78-36de82315355)
   - [Javascript](https://www.boot.dev/certificate/afk/2af5c197-21eb-48b4-bd90-b0d59adb311e)
