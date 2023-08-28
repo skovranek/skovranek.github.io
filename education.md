@@ -2,7 +2,7 @@
 
 # Online Programs
 ## Backend Developer Career Path - Boot.dev 
-- __11 [Certifications](https://www.boot.dev/u/afk)__ - 6 Guided Projects
+- __[11 Certifications](https://www.boot.dev/u/afk)__ - 6 Guided Projects
 - __Languages:__
   - [Go](https://www.boot.dev/certificate/afk/3b39d0f6-f944-4f1b-832d-a1daba32eda4)
   - [Python](https://www.boot.dev/certificate/afk/f9a25dfb-3e00-4727-ac78-36de82315355)
@@ -17,7 +17,7 @@
   - [FP](https://www.boot.dev/certificate/afk/b1459f0c-21eb-41e5-b7f3-562ef69d344c)
 
 ## Premium Full-Stack Web Development - Codecademy.com
-- __[17 Certifications](https://www.codecademy.com/profiles/skovranek)__ & [600 Badges](https://www.codecademy.com/users/skovranek/achievements)
+- __[17 Certifications](https://www.codecademy.com/profiles/skovranek)__ - [600 Badges](https://www.codecademy.com/users/skovranek/achievements)
 - __Languages:__
   - [Python](https://www.codecademy.com/profiles/skovranek/certificates/b97fd4d87a816c761a674af1b5391ef1)
   - [Javascript](https://www.codecademy.com/profiles/skovranek/certificates/705dcb15de0da4dd9d9fc4f3274b430e)
