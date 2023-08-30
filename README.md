@@ -11,6 +11,6 @@
 
 # Projects
 - ### [Buftermio](https://pkg.go.dev/github.com/skovranek/buftermio)
-> A Go package for CLI tools. It is an interface with a cached buffer for input from your terminal.
+> A Go package for CLI tools. It is a cached buffer for input from your terminal.
 - ### [To-Do List - Django Web App](https://django-todos-7caa0bc186c8.herokuapp.com/)
 > A Python Django CRUD app hosted on Heroku.
