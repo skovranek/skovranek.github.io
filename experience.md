@@ -1,12 +1,6 @@
 ## [Portfolio](https://skovranek.github.io/) | [Education](https://skovranek.github.io//education.html) | Experience
-# My Programming Journey
-Basically, learning how to program has been a long ten years. A lot of stops and starts. Cumulatively, it's been two years of dedicated study and practice. Now it's time to get over the finish line. I've pushed all my chips into the center.
-
-__*I want to program because I enjoy programming.*__
-
-Business is about people and solving their problems. For every job I've done, I've had to solve problems that should not exist because software could eliminate them. Decisions can be automated and solutions calibrated in milliseconds.
-
-__*I want to create programs that help people by solving real problems.*__
+# Experience
+I love programming with the same passion as I hate working retail. My existence revolves around expertising in backend development like the Milky Way circles the super massive blackhole at its' center. I spend my mornings, nights and days off honing my skills by building production-ready projects and learning computer science fundamentals. The only thing I need is a chance to stop wasting time doing menial labor and instead use my cranial capacity to create beautiful backend solutions.
 # Employment
 ## Costco Wholesale _2012-2021_
 - ## Tire Tech Supervisor and Sales
