@@ -1,6 +1,6 @@
 ## [Portfolio](https://skovranek.github.io/) | [Education](https://skovranek.github.io//education.html) | Experience
-# Experience
-I aspire to build beautiful software solutions for real people. I love programming. I know this because for three years I’ve been diligently studying and building projects during morning, nights and weekends—at every opportunity. I'm proud of these production ready projects. I have a strong conceptual foundation of back-end development and firm computer science fundamentals. I'm fully confident I'm ready for an entry level back-end developer position.
+# About
+My passion for programming started three years ago. I have been studying and building projects before and after work during mornings, nights and weekends—whenever I have a spare moment. Being mostly self-taught, I have made an extra effort to study core computer science fundamentals and put those learnings into practice with real-world projects.
 # Employment
 ## Costco Wholesale _2012-2021_
 - ## Tire Tech Supervisor and Sales
