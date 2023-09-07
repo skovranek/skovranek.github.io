@@ -2,7 +2,7 @@
 
 # Online Programs
 ## Backend Developer Career Path - Boot.dev 
-- __[11 Certifications - 6 Guided Projects - 1,250 Exercises](https://www.boot.dev/u/skovranek)__
+- __[12 Certifications - 6 Guided Projects - 1,250 Exercises](https://www.boot.dev/u/skovranek)__
 - __Languages:__
   - [Go](https://www.boot.dev/certificate/skovranek/3b39d0f6-f944-4f1b-832d-a1daba32eda4)
   - [Python](https://www.boot.dev/certificate/skovranek/f9a25dfb-3e00-4727-ac78-36de82315355)
