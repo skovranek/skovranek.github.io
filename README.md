@@ -1,4 +1,4 @@
-## Portfolio | [Education](https://skovranek.github.io//education.html) | [Experience](https://skovranek.github.io//experience.html)
+## Portfolio | [Education](https://skovranek.github.io/me/education) | [Experience](https://skovranek.github.io/me/experience) | [Blog](https://skovranek.github.io/blog)
 
 # Technologies
 - ### Go

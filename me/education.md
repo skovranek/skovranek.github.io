@@ -1,4 +1,4 @@
-## [Portfolio](https://skovranek.github.io/) | Education | [Experience](https://skovranek.github.io//experience.html)
+## [Portfolio](https://skovranek.github.io/) | Education | [Experience](https://skovranek.github.io/me/experience) | [Blog](https://skovranek.github.io/blog)
 
 # Online Programs
 ## Backend Developer Career Path - Boot.dev 
