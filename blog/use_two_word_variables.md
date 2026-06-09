@@ -1,6 +1,6 @@
 ## [Portfolio](https://skovranek.github.io/) | [Education](https://skovranek.github.io/me/education.html) | [Experience](https://skovranek.github.io/me/experience) | [Blog](https://skovranek.github.io/blog)
 
-### By: Matt Skovranek 5-28-26
+### By: Matt Skovranek 05-28-2026
 
 # Use two words variables
 

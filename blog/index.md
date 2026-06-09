@@ -3,3 +3,4 @@
 Pages:
 - [Use two word variables](https://skovranek.github.io/blog/use_two_word_variables)
 - [Git's Insane Defaults](https://skovranek.github.io/blog/git_insane_defaults)
+- [More Effort](https://skovranek.github.io/blog/more_effort)
