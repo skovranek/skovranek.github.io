@@ -4,6 +4,9 @@
 
 # How To Parent AI
 
+TODO: mention something I forgot: ask AI to explain how stuff works (if i didnt say so already)
+
+
 Congratulations! It's an LLM!
 
 Before I share my tips for how to parent an AI, just remember these 4 rules for how LLMs actually work:
